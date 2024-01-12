@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GoOver.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GoUnder.unity
+    guid: 6978c09557d764c02a62e19092684d81
+  - enabled: 1
+    path: Assets/Scenes/OverUnder.unity
+    guid: d9e7672e4f3674811bce664ab81f56c7
+  - enabled: 1
+    path: Assets/Scenes/FlappyBird1.unity
+    guid: 3092f13d84f7c4846b8158d0ff9e8d4a
+  - enabled: 1
+    path: Assets/Scenes/Sliders.unity
+    guid: 3c64b2089fd7440cdbff4743b199ca53
+  - enabled: 1
+    path: Assets/Scenes/Gap.unity
+    guid: 7a18923a31b9242d2a52e474ca21c066
+  - enabled: 1
+    path: Assets/Scenes/SuperGap.unity
+    guid: cd5d3ea6432db4eb4bf477527fd8fd2f
+  - enabled: 1
+    path: Assets/Scenes/SpaceMaze.unity
+    guid: 71b6ec0dbf8474723b7279fde61b9249
+  - enabled: 1
+    path: Assets/Scenes/Snail.unity
+    guid: 782416ee7e0074acdb54d29b0fc55e8a
+  m_configObjects: {}
